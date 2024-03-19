@@ -8,6 +8,7 @@
 </div>
 
 # Modelo de Contratos Freelancer
+¡Bienvenido al repositorio de modelos de contratos para freelancers! Este espacio está diseñado para que los freelancers puedan compartir y colaborar en la creación de contratos estándar que puedan ser útiles para su trabajo. Ya sea que estés buscando un contrato de servicios, un acuerdo de confidencialidad, o cualquier otro tipo de documento legal relacionado con tu trabajo como freelancer, ¡aquí podrás encontrar una variedad de modelos para empezar!
 
 ## Contribuir al proyecto
 
