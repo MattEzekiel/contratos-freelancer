@@ -24,7 +24,7 @@ Aquí tienes una guía rápida:
 6. Haz Push a la Rama (`git push origin feature/CaracteristicaIncreible`)
 7. Abre una [_pull request_](https://github.com/MattEzekiel/contratos-freelancer/pulls)
 
-Por favor, consulta nuestra [guía de contribución](https://github.com/MattEzekiel/contratos-freelancer/blob/master/CONTRIBUTING.md) para saber cómo puedes empezar de la mejor manera y siguiendo [buenas prácticas](https://github.com/MattEzekiel/contratos-freelancer/blob/main/CONTRIBUTING.md#buenas-prácticas-).
+Por favor, consulta nuestra [guía de contribución](https://github.com/MattEzekiel/contratos-freelancer/CONTRIBUTING.md) para saber cómo puedes empezar de la mejor manera y siguiendo [buenas prácticas](https://github.com/MattEzekiel/contratos-freelancer/CONTRIBUTING.md#buenas-prácticas-).
 
 **¡Gracias a todos los colaboradores que han hecho posible este proyecto!**
 
