@@ -17,8 +17,9 @@ Este contrato tendrá una vigencia **_VIGENCIA_** <!-- Ej: 30 días, 8 meses, in
 ## QUINTA: RESCISIÓN
 Cualquiera de las partes podrá en cualquier tiempo y por cualquier motivo declarar rescindido este contrato de servicios de mantenimiento de web. En tal caso, deberá comunicarlo a la otra con una anticipación no menor de **_DÍAS en número_** (**_DÍA en palabra_**) <!-- 15 (quince) --> días y en forma fehaciente.
 
-## SEXTA: ENFERMEDAD
-EL PROVEEDOR deberá comunicar en forma fehaciente y con certificado médico que lo acredite, cualquier enfermedad que impida la realización de los servicios para los que fue contratado. Pasado ese plazo de gracia, sin que el PROVEEDOR se haya reintegrado a prestar sus servicios en forma debida, el contrato quedará rescindido de pleno derecho.
+## SEXTA: IMPREVISTOS
+EL PROVEEDOR deberá comunicar en forma fehaciente, cualquier imprevisto que impida la realización de los servicios para los que fue contratado o plazos establecidos. Pasado ese plazo de gracia, sin que el PROVEEDOR se haya reintegrado a prestar sus servicios en forma debida, ambas partes acordarán revisar el valor hora en caso de incumplimientos de plazos. Se buscará alcanzar un acuerdo justo para ambas partes.
+
 
 En prueba de conformidad se firman el presente contrato.
 <p>&nbsp;</p>

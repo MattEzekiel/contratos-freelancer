@@ -17,8 +17,8 @@ This contract shall have a term of **_TERM_** <!-- Example: 30 days, 8 months, i
 ## FIFTH: TERMINATION
 Either party may at any time and for any reason terminate this web maintenance services contract. In such case, it must notify the other party with no less than **_DAYS in number_** (**_DAY in word_**) <!-- 15 (fifteen) --> days in advance and in a reliable manner.
 
-## SIXTH: ILLNESS
-THE PROVIDER must communicate in a reliable manner and with a medical certificate certifying it, any illness that prevents the performance of the services for which they were hired. After this grace period, if THE PROVIDER has not returned to provide its services properly, the contract shall be terminated by operation of law.
+## SIXTH: UNFORESEEN CIRCUMSTANCES
+The PROVIDER must communicate promptly any unforeseen circumstance that prevents the provision of the services for which they were contracted or meeting established deadlines. If the PROVIDER fails to return to provide their services properly within that grace period, both parties will agree to review the hourly rate in case of deadline breaches. An effort will be made to reach a fair agreement for both parties.
 
 In witness whereof, this contract is signed.
 <p>&nbsp;</p>
