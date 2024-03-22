@@ -26,7 +26,7 @@ Aquí tienes una guía rápida:
 
 Por favor, consulta nuestra [guía de contribución](https://github.com/MattEzekiel/contratos-freelancer/blob/master/CONTRIBUTING.md) para saber cómo puedes empezar de la mejor manera y siguiendo [buenas prácticas](https://github.com/MattEzekiel/contratos-freelancer/blob/master/CONTRIBUTING.md#buenas-prácticas-).
 
-### Alternativa
+## Alternativa
 Alternativamente, se recomienda utilizar la web de [Acuerdo Sencillo](acuerdosencillo.com)
 
 **¡Gracias a todos los colaboradores que han hecho posible este proyecto!**
